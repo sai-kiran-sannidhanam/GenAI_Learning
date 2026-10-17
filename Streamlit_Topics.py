@@ -14,9 +14,7 @@ st.markdown("This is a markdown using markdown function")  #to create a markdown
 st.code("This is a code using code function")  #to create a code
 #st.quote("This is a quote using quote function")  #to create a quote
 
-
-#Advanced Streamlit Topics with valid syntax    for radio, selectbox, multiselect, slider, number_input, text_input, text_area
-#print with the correct function instead of Click me like radio, selectbox, multiselect, slider, number_input, text_input, text_area
+#Advanced Streamlit Topics with valid syntax    for radio, selectbox, multiselect, slider, number_input, text_input, text_area#print with the correct function instead of Click me like radio, selectbox, multiselect, slider, number_input, text_input, text_area
 st.radio("radio", ["Option 1", "Option 2", "Option 3"])  #to create a radio
 st.selectbox("selectbox", ["Option 1", "Option 2", "Option 3"])  #to create a selectbox
 st.multiselect("multiselect", ["Option 1", "Option 2", "Option 3"])  #to create a multiselect
