@@ -22,6 +22,7 @@ st.slider("slider", 0, 100, 1)  #to create a slider
 st.number_input("number_input", 0, 100, 1)  #to create a number input
 st.text_input("text_input")  #to create a text input
 st.text_area("text_area", "This is a text area")  #to create a text area
+ #
 
 #
 #how to run a streamlit app?
